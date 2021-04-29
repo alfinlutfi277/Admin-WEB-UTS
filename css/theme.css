@@ -690,7 +690,6 @@ fieldset[disabled] .btn-default:hover {
 
 .btn-primary {
 	color: #fff;
-	background-color: #ebebeb;
 	border-color: #fcfcfc
 }
 
@@ -700,7 +699,7 @@ fieldset[disabled] .btn-default:hover {
 .btn-primary:hover,
 .open>.btn-primary.dropdown-toggle {
 	color: #fff;
-	background-color: #ffffff;
+	background-color:#ec1313;
 	border-color: #155167
 }
 
