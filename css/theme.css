@@ -690,6 +690,7 @@ fieldset[disabled] .btn-default:hover {
 
 .btn-primary {
 	color: #fff;
+	background-color: #4d4feb;
 	border-color: #fcfcfc
 }
 
